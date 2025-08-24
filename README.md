@@ -11,11 +11,10 @@
 <h1 align="center">Hey, I'm Genghua 👋</h1>
 
 <p align="center">
-  ML & Data Engineer • Recsys • LLM optimization • Streaming pipelines
+  ML & Data Engineer • Recsys • LLM • Streaming pipelines
   <br/>
   <a href="mailto:you@example.com">Email</a> • 
   <a href="https://ggbond798.com/">Website</a> •
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">Projects</a>
 </p>
 
 <p align="center">
@@ -39,20 +38,12 @@
 
 ### 🧩 Featured work (cards)
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+  <a href="[https://github.com/YOUR_USERNAME/PROJECT_1](https://github.com/Genghua-Chen/clinical_rag_impletemetation_with_qwen)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+<!--   <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&hide_border=true" />
-  </a>
+  </a> -->
 </p>
 
 ### 📈 Quick stats
@@ -63,16 +54,13 @@
 
 ### ✍️ Latest writing
 <!-- posts:start -->
-- *How I cut LLM latency 80% with KV cache sharing*
-- *Designing a high-throughput feature store on AWS*
+- *Language Model Training Resource Expectation*
 <!-- posts:end -->
 
 <details>
   <summary>More about me</summary>
 
-- 🧠 **LLM Inference Speedup 20×** — quantization + fused kernels  
-- 🎯 **Recsys CTR +4×** — personalized ranking & feature store  
-- 🔌 **Real-time pipeline (billions/day)** — Kafka + Flink + Redshift  
+- 🧠 **LLM Inference Speedup** — quantization + fused kernels  
 
 When I’m not profiling kernels, I’m training **Muay Thai** and spoiling my cat.
 </details>
