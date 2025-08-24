@@ -38,8 +38,8 @@
 
 ### 🧩 Featured work (cards)
 <p align="center">
-  <a href="[https://github.com/YOUR_USERNAME/PROJECT_1](https://github.com/Genghua-Chen/clinical_rag_impletemetation_with_qwen)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&hide_border=true" />
+  <a href="[https://github.com/Genghua-Chen/clinical_rag_impletemetation_with_qwen](https://github.com/Genghua-Chen/clinical_rag_impletemetation_with_qwen)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Genghua-Chen&repo=clinical_rag_impletemetation_with_qwen&hide_border=true" />
   </a>
 <!--   <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&hide_border=true" />
