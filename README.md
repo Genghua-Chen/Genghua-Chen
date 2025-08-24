@@ -46,12 +46,6 @@
   </a> -->
 </p>
 
-### 📈 Quick stats
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="150">
-</p>
-
 ### ✍️ Latest writing
 <!-- posts:start -->
 - *Language Model Training Resource Expectation*
