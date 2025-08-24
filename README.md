@@ -14,7 +14,7 @@
   ML & Data Engineer • Recsys • LLM • Streaming pipelines
   <br/>
   <a href="mailto:you@example.com">Email</a> • 
-  <a href="https://ggbond798.com/">Website</a> •
+  <a href="https://ggbond798.com/">Website</a>
 </p>
 
 <p align="center">
