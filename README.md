@@ -1,6 +1,6 @@
 <!-- Banner (optional) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x220?text=Hi%2C+I%27m+Genghua+%F0%9F%91%8B" alt="banner">
+  <img src="banner.png" alt="banner">
 </p>
 
 <h1 align="center">Hey, I'm Genghua 👋</h1>
