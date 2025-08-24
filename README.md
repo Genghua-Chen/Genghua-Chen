@@ -9,8 +9,8 @@
   ML & Data Engineer • Recsys • LLM optimization • Streaming pipelines
   <br/>
   <a href="mailto:you@example.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/your-handle/">LinkedIn</a> • 
-  <a href="https://genghuachen.github.io">Website</a>
+<!--   <a href="https://www.linkedin.com/in/your-handle/">LinkedIn</a> •  -->
+  <a href="https://ggbond798.com/">Website</a>
 </p>
 
 ---
